@@ -3,8 +3,8 @@
 <div align="center">
 
   <a href="https://arxiv.org/abs/2503.23905"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2503.23905&color=B31B1B&logo=arxiv"></a> &ensp;
-  <a href="https://huggingface.co/hqhQAQ/Hint-GRPO-Qwen2-VL-7B"><img src="https://img.shields.io/static/v1?label=Model Weights (7B)&message=HuggingFace&color=yellow"></a> &ensp;
-  <a href="https://huggingface.co/hqhQAQ/Hint-GRPO-Qwen2.5-VL-3B"><img src="https://img.shields.io/static/v1?label=Model Weights (3B)&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/hqhQAQ/Hint-GRPO-Qwen2-VL-7B"><img src="https://img.shields.io/static/v1?label=Hint-GRPO-Qwen2-VL-7B&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/hqhQAQ/Hint-GRPO-Qwen2.5-VL-3B"><img src="https://img.shields.io/static/v1?label=Hint-GRPO-Qwen2.5-VL-3B&message=HuggingFace&color=yellow"></a> &ensp;
 
 </div>
 
@@ -35,13 +35,13 @@ This is the official implementation of paper "Boosting MLLM Reasoning with Text-
 * **Data utilization rate:**
 
     <div style="display: flex; justify-content: center;">
-    <img src="./assets/data_utilization_rate.svg" alt="data_utilization_rate" width="50%">
+    <img src="./assets/data_utilization_rate.svg" alt="data_utilization_rate" width="40%">
     </div>
 
 * **Qwen2-VL-7B's test accuracy** w/ \& w/o image in GRPO training:
 
     <div style="display: flex; justify-content: center;">
-    <img src="./assets/text_bias_acc.svg" alt="text_bias_acc" width="50%">
+    <img src="./assets/text_bias_acc.svg" alt="text_bias_acc" width="40%">
     </div>
 
 ### Method
